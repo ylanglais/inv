@@ -1,0 +1,25 @@
+sourceview { 
+	font-size: 12px ;
+	font-family: "Courier 10 Pitch" ;
+	color: #00ff00;
+}
+
+textview { 
+	font-size: 12px ;
+	font-family: "Courier 10 Pitch" ;
+	color: #ffff00;
+}
+
+sourceview text {
+	font-size: 12px ;
+	font-family: "Courier 10 Pitch" ;
+	color: #0000ff;
+}
+
+textview text {
+	font-size: 12px ;
+	font-family: "Courier 10 Pitch" ;
+	color: #ffFFff;
+}
+
+

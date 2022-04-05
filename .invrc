@@ -1,0 +1,17 @@
+{
+	"libpath": "$HOME/lib/inv"
+	"event": [
+		{
+			"mode":"command",
+			"modifiers": ["CTRL"]
+			"event": "mouse-1"
+			"action": "mouse_cut_paste_word" 
+		}, {
+			"mode":"command",
+			"modifiers": ["SHIFT"]
+			"event": "mouse-1"
+			"action": "mouse_cut_paste_expression" 
+		}
+	]
+}
+
